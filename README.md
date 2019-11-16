@@ -23,8 +23,6 @@
     },
 ```
 
-## 图片防盗链,参考链接
-- http://www.cnblogs.com/dongcanliang/archive/2017/04/01/6655061.html
 
 ## other
 > 知乎日报接口api
